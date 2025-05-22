@@ -1,1 +1,2 @@
-# UTS-DEVOPS_5076
+# UTS DevOps
+Repository ini digunakan untuk tugas Ujian Tengah Semester mata kuliah DevOps.
